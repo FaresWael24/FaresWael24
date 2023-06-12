@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FaresWael24
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning HTML, Css and JavaScript
+- 👋 Hi, I’m @FaresWael24.
+- 👀 I’m interested in Front-end Development.
+- 🌱 I’m currently learning HTML, Css and JavaScript.
 - 📫 How to reach me fadeabes.work@gmail.com
 
 <!---
